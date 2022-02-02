@@ -24,11 +24,17 @@ textarea {
 /* textarea:focus{
     margin-bottom: 2.2em;
 } */
+p{
+    text-align: center;
+}
 @media only screen and (max-width: 600px){
     textarea{
         margin-bottom: 2.2em;
         font-size: small;
         font-family: 'Indie Flower';
+    }
+    p{
+        font-size:small;
     }
 }
 
